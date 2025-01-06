@@ -73,7 +73,7 @@ client-side-architecture/
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/dharmeshn007/client-side-architecture.git
+git clone <repository_url>
 cd client-side-architecture
 ```
 
